@@ -1,0 +1,9 @@
+*
+!public/
+!.gitignore
+
+/node_modules
+/storage/app/answers
+/storage/app/docs
+/storage/app/refunds
+/storage/app/public
